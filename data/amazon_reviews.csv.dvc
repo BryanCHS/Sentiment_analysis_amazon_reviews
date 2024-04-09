@@ -1,5 +1,5 @@
 outs:
-- md5: ed18dee0789542e089c86386b188aae8
-  size: 3198136
+- md5: a9ac1cc92964d1db8d5768af450520c9
+  size: 1599068
   hash: md5
   path: amazon_reviews.csv
